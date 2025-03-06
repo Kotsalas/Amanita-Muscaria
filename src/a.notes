@@ -1,0 +1,95 @@
+1. delete or randomize the spawn of the rods
+   (it has do be within the level and not in the same location as a wall)
+   // DONE for the outdoorlevel only
+
+1. standing animations on new hero // New Hero DONE, standing animations still the originals
+   
+2. hero can roll (speed = 2) (space bar to roll)
+
+3. make an entrace similar to Exit but different event emit // DONE
+
+4. make three new items that afte being consume give different effects (good and bad) and
+also have a slim chance to poison and kill the hero
+
+
+
+
+
+
+At some point the code should save player data on a new file and be able to retrieve them
+to check the state of the player
+
+Name of the game. Something with AMANITA MUSCARIA (also called fly agaria) since its the type of the mushroom that the hero is
+
+This type of mushroom has hallucinogenic properties. These properties are a large and diverse
+class of psychoactive drugs that can produce altered states of conciousness, characterized
+by major alternations in thought, mood and perception as well as other changes.
+Most hallucinogens can be categorizedas either being psychedelics, dissociatives or deliriants.
+Although poisonous. death due to poisoning from amanita muscaria ingestion is quite rare.
+So the hero can peek up three abilities.
+
+-Ability of thought:
+For a short period of time show the correct path for the player to follow in order to get out of the maze
+but after that reverse the keys (left becomes right, up becomes down and the other way).
+
+-Ability of mood:
+For a period of time move faster but you have blurred vision.
+
+-Ability of perception:
+The hero basically sees another riality. Therefor the player still sees the actuall map
+but the hero sees hes own map (cahnge the position of the walls).
+
+Consuming abilities increases the sanity of the hero leading to ovrdose. The playe will be able to collect crystals in order to make medicine for their sanity and prevent overdose.
+
+
+
+
+Since your main character is an Amanita Muscaria mushroom, the story could revolve around a mystical forest where reality is unstable due to the mushroom’s unique abilities. Maybe the world itself is shifting, and the protagonist must learn to control their powers to restore balance.
+
+🌿 Story Idea: "The Shifting Forest"
+The forest has been thrown into chaos—mazes twist on their own, puzzles rearrange, and creatures act strangely. The elders of the fungal village believe this is because the “Great Mycelium”, a vast underground network that connects all mushrooms, has been disturbed.
+
+Your hero, a young Amanita Muscaria, has just begun awakening their abilities to alter thought, mood, and perception. To fix the world, they must navigate the shifting forest, solve puzzles, and master their abilities before they lose themselves in the distortions.
+
+The NPCs in the first three levels could introduce the hero to this world and their abilities in a quirky, mysterious, and sometimes unreliable way (since they are part of the shifting reality too).
+
+🧙 NPC Ideas & Their Dialogues
+1. The Wise Old Mushroom (Mentor Figure) 🍄👴
+A large, ancient mushroom with glowing spots. Speaks slowly, as if time is warped for him.
+🗣️ “Ahh… young one, you are… different. The forest shifts because it is sick. You… must learn to shift Your mind will twist, your mood will dance, and your eyes… may deceive you. But do not fear, little cap. Embrace it.as well.”
+🗣️ “”
+
+Purpose: Explains the three abilities and hints at the dangers of using them recklessly.
+
+2. The Paranoid Mushroom 🍄😨
+A small, twitchy mushroom that constantly panics and makes the hero doubt reality.
+🗣️ “You see that tree? No, you don’t! It wasn’t there a second ago! Or was it?”
+🗣️ “Be careful with your thoughts… they might not be yours anymore!”
+
+Purpose: Demonstrates the negative effects of thought alteration, like confusion and false paths.
+
+3. The Chill Truffle 🍄😎
+A relaxed, glowing mushroom that doesn’t seem to care about anything.
+🗣️ “Hey, dude, just go with the flow. The forest is wild, man… but, like, so are you.”
+🗣️ “Mood’s everything. If you’re happy, the world is happy. If you’re sad… well, don’t be sad.”
+
+Purpose: Explains mood alteration, making it clear that emotions affect movement and puzzle interactions.
+
+4. The Trickster Spore 🍄🃏
+A sneaky little mushroom that tells half-truths and laughs when you get confused.
+🗣️ “Ohh, perception? Easy! Just believe whatever you want to be real. No consequences… probably.”
+🗣️ “Go left. Or right. Or both? Hehehe.”
+
+Purpose: Introduces perception alteration, making the player second-guess what they see.
+
+📌 Gameplay Integration
+First Level: The Wise Old Mushroom introduces the world and sets up the goal.
+Second Level: The Paranoid Mushroom warns about the dangers of overusing abilities.
+Third Level: The Chill Truffle and Trickster Spore show how the abilities work in action.
+Would you want the NPCs to be helpful guides or intentionally misleading at times to match the "distorted reality" theme?
+
+1. forest
+2. swamp
+3. undeground or graveyard (implement torch and flickering in the light)
+
+fix bug showing correct the death screen ( when the player dies while moving camera is in wrong position)
